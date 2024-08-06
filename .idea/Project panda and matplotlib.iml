@@ -1,0 +1,17 @@
+ProjectPanda/
+│
+├── .idea/
+│   ├── Project panda.iml
+│   ├── misc.xml
+│   ├── modules.xml
+│   ├── workspace.xml
+│
+├── data/
+│   └── sample_data.csv
+│
+├── src/
+│   ├── __init__.py
+│   └── main.py
+│
+├── .gitignore
+└── requirements.txt
